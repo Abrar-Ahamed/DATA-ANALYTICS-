@@ -15,9 +15,5 @@
 
 
 ## Contributors
-- Vijay 
-- Dhaarini
-- Prachet
-- Pushkar
 - Abrar
-- Sanskriti 
+
