@@ -24,8 +24,7 @@ with col1:
     st.subheader("Job")
     job = st.radio("Current Job level", ('blue-collar', 'management', 'technician',
                                          'admin', 'services', 'retired', 'self-employed',
-                                         'entrepreneur', 'unemployed', 'housemaid', 'student',
-                                         'other'), key="job")
+                                         'entrepreneur', 'unemployed', 'housemaid', 'student'), key="job")
 
 with col2:
     st.subheader(" ")
